@@ -1,10 +1,10 @@
-# CarouselDemo
+# Interests
 
 ![Interests](https://github.com/RedisMadani/Interests/assets/136177376/497b6abf-318e-4d16-a5bd-8dbfff18ddc6)
 
 ## Description
 
-CarouselDemo is a Swift app that showcases a carousel view implemented using UICollectionView. The layout of the carousel is refactored using the UIScrollView protocol, providing a flexible and customizable user interface. Additionally, a blur effect view is utilized to enhance the visual experience.
+Interests is a Swift app that showcases a carousel view implemented using UICollectionView. The layout of the carousel is refactored using the UIScrollView protocol, providing a flexible and customizable user interface. Additionally, a blur effect view is utilized to enhance the visual experience.
 
 ## Features
 
@@ -14,31 +14,31 @@ CarouselDemo is a Swift app that showcases a carousel view implemented using UIC
 
 ## Installation
 
-To run the CarouselDemo app on your local machine, follow these steps:
+To run the Interests app on your local machine, follow these steps:
 
 1. Clone the repository:
 
 ```
-git clone https://github.com/RedisMadani/CarouselDemo.git
+git clone https://github.com/RedisMadani/Interests.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd CarouselDemo
+cd Interests
 ```
 
 3. Open the Xcode project file:
 
 ```
-open CarouselDemo.xcodeproj
+open Interests.xcodeproj
 ```
 
 4. Build and run the app using Xcode.
 
 ## Usage
 
-Once you have the CarouselDemo app running on a simulator or device, you can explore its functionality:
+Once you have the Interests app running on a simulator or device, you can explore its functionality:
 
 - The main screen displays a carousel view with horizontally scrollable cells.
 - Swipe left or right to navigate through the carousel items.
